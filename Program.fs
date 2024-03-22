@@ -1,4 +1,4 @@
-﻿///////////////////////// PART 1 /////////////////////////
+﻿printfn "PART 1\n"
 
 //Create a list that displays the salaries of a company's employees.
 //For this list, let salaries = [$75,000; $48,000; $120,000; $190,000; $300,113; $92,000; $36,000].
@@ -37,7 +37,7 @@ let sumOf50KTo100K =
     |> List.reduce (fun acc income -> acc + income)
 printfn $"Sum of employees income between $50,000 and $100,000 is {sumOf50KTo100K}"
 
-///////////////////////// PART 2 /////////////////////////
+printfn "\n\nPART 2\n"
 
 // Use tail recursion to write a program that will calculate the sum of all multiples of 3 up to a given number.
 //Assume that we pass only a multiple of 3 as a parameter to this function. No validation is needed.

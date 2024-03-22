@@ -27,3 +27,4 @@ D:\Projects\RiderProjects\csd215_test1_johncarlo\obj\Debug\net8.0\refint\csd215_
 D:\Projects\RiderProjects\csd215_test1_johncarlo\obj\Debug\net8.0\csd215_test1_johncarlo.pdb
 D:\Projects\RiderProjects\csd215_test1_johncarlo\obj\Debug\net8.0\csd215_test1_johncarlo.genruntimeconfig.cache
 D:\Projects\RiderProjects\csd215_test1_johncarlo\obj\Debug\net8.0\ref\csd215_test1_johncarlo.dll
+D:\Projects\RiderProjects\csd215_test1_johncarlo\obj\Debug\net8.0\csd215_test1_johncarlo.sourcelink.json

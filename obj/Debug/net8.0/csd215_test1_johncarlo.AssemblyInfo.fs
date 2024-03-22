@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("csd215_test1_johncarlo")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09896bf206891e6641330c49a0f8869d214b6240")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("csd215_test1_johncarlo")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("csd215_test1_johncarlo")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
